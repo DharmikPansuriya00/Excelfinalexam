@@ -31,10 +31,10 @@ The **Superstore Sales Performance Dashboard** is an interactive Excel-based bus
 ## 📷 Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](Screenshots/dashboard_screenshot.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Analysis Sheet
-![Analysis](Screenshots/analysis_sheet.png)
+![Analysis](Screenshots/pivot.png)
 
 ## 📊 Dashboard Components
 1. Sales by Category
